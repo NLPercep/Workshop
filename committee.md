@@ -1,6 +1,6 @@
 ---
 layout: page  
-title: Conference Committee
+title: Program Committee
 permalink: /committee/
 ---
 

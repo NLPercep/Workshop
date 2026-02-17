@@ -1,29 +1,48 @@
-- name: Sophee Nguyen
-  aff: Quantum Valley University
-  im: "assets/committee/default-person.jpg"
-  role: General Chair
-  url: "https://sophiang.edu"
+- name: Hongyu Chen
+  aff: University of Stuttgart
+  im: "assets/committee/hongyu.jpeg"
+  #role: General Chair
+  url: "https://hongyuchen.world/"
 
-- name: Rajesh Patel
-  aff: Neodigital Academy of Sciences
-  im: "assets/committee/default-person.jpg"
-  role: Keynote Speaker Coordinator
-  url: "https://rajeshpatel.edu"
+- name: Aswathy Velutharambath
+  aff: University of Stuttgart
+  im: "assets/committee/aswathy.jpg"
+  #role: Keynote Speaker Coordinator
+  url: "https://www.ims.uni-stuttgart.de/en/institute/team/Velutharambath/"
 
-- name: Elane Rodriguez
-  aff: Global Synergy Institute
-  im: "assets/committee/default-person.jpg"
-  role: Poster Session Chair
-  url: "https://elenaml.edu"
+- name: Amelie Wührl
+  aff: IT-University of Copenhagen
+  im: "assets/committee/amelie.jpg"
+  #role: Poster Session Chair
+  url: "https://scholar.google.com/citations?user=jwkTGVYAAAAJ&hl=en"
 
-- name: Alexander Ivanov
-  aff: Futuristic Horizons University
-  im: "assets/committee/default-person.jpg"
-  role: Sponsorship Chair
-  url: "https://aivanov-fhu.edu"
+- name: Sofie Labat
+  aff: Ghent University, Harvard University
+  im: "assets/committee/sofie.jpg"
+  #role: Sponsorship Chair
+  url: "https://lt3.ugent.be/people/sofie-labat/"
 
-- name: Yuki Tanaka
-  aff: Innovate Tech College
-  im: "assets/committee/default-person.jpg"
-  role: Local Arrangements Chair
-  url: "https://tanaka-lab.edu"
+- name: Lindsay Goolsby
+  aff: University of Denver
+  im: "assets/committee/LG.jpg"
+  #role: Local Arrangements Chair
+  url: "https://scholar.google.com/citations?user=A7hmGk4AAAAJ&hl=en"
+
+- name: Aidan Combs
+  aff: The Ohio State University
+  im: "assets/committee/aidan.jpg"
+  #role: Local Arrangements Chair
+  url: "https://aidancombs.netlify.app/"
+
+- name: Agnieszka Faleńska
+  aff: University of Stuttgart
+  im: "assets/committee/falenska.jpg"
+  #role: Local Arrangements Chair
+  url: "https://www.ims.uni-stuttgart.de/en/institute/team/Falenska/"
+
+- name: Roman Klinger
+  aff: University of Bamberg
+  im: "assets/committee/roman.jpg"
+  #role: Local Arrangements Chair
+  url: "https://bkleinberg.net/"
+  

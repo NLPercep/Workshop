@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Information about who to contact, about what, and how.
+If you have any questions, please contact: nlpercep-workshop@iris.uni-stuttgart.de 

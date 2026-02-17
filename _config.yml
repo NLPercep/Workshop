@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-footer_copyright: Name of Copyright Holder
+footer_copyright: Copyright 2026 NLPercep'26. Powered by [Jekyll](https://github.com/smcclab/academic-org-theme) theme
 logo: /assets/nlpercep.png
 favicon: /assets/nlpercep.png
 
@@ -29,8 +29,8 @@ navigation_header:
 #  url: /program/
 #- title: Location
 #  url: /location/
-#- title: Contact
-#  url: /contact/
+- title: Contact
+  url: /contact/
 
 # this is the setup for the page_gen plugin which generates individual pages for data files in the _data directory.
 page_gen:
