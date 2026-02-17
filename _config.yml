@@ -25,12 +25,12 @@ navigation_header:
   url: /call/
 - title: Committee
   url: /committee/
-- title: Program
-  url: /program/
-- title: Location
-  url: /location/
-- title: Contact
-  url: /contact/
+#- title: Program
+#  url: /program/
+#- title: Location
+#  url: /location/
+#- title: Contact
+#  url: /contact/
 
 # this is the setup for the page_gen plugin which generates individual pages for data files in the _data directory.
 page_gen:

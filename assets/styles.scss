@@ -59,8 +59,8 @@ blockquote p {
 article {
 
     img:not(.card-img-top) {
-        max-width: 80%;
-        max-height: 80%;
+        max-width: 70%;
+        max-height: 70%;
         height: inherit !important;
         display:block;
         margin:auto;
@@ -110,3 +110,16 @@ $ui-4: #4d4bcd;
     background-position: center center;
     background-repeat: no-repeat;
 }
+
+$reading-width: 760px;
+
+@media (min-width: 992px) {
+  .container { max-width: $reading-width !important; }
+}
+
+$gif-width: 1100px;
+
+.wide-gif { width: 100%; max-width: $gif-width; margin: 0 auto 24px; }
+
+article .wide-gif img { width: 100% !important; max-width: none !important; height: auto !important; display:block; }
+
