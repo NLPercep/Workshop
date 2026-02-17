@@ -4,7 +4,7 @@
     {% if site.logo | slice: -3, 3 == "svg" %} 
     <!-- special treatment if it's an SVG? -->
     {% endif %} 
-    <img src="{{ site.logo | relative_url }}" width="120" class="d-inline-block align-top" alt="{{ site.title }}">
+    <img src="{{ site.logo | relative_url }}" width="120" class="d-inline-block align-top logo logo-light" alt="{{ site.title }}">
     <img src="{{ site.logo_dark | relative_url }}"
        width="120"
        class="d-inline-block align-top logo logo-dark"

@@ -123,15 +123,16 @@ $gif-width: 1400px;
 
 article .wide-gif img { width: 100% !important; max-width: none !important; height: auto !important; display:block; }
 
-
+.card-img-top { width: 100%; height: 220px; /* try 160–200px */ object-fit: cover; object-position: center; }
 
 
 .committee-grid.container { max-width: 850px !important; }
-.committee-grid .card-body { font-size: 0.75rem; }
+.committee-grid .card-body { font-size: 0.55rem; }
 
 
-.logo-dark { display: none; }
-.logo-light { display: inline-block; }
+/* Logo swap (Bootstrap theme switch) */
+.navbar-brand .logo-dark { display: none !important; }
+.navbar-brand .logo-light { display: inline-block !important; }
 
-html[data-bs-theme="dark"] .logo-dark { display: inline-block; }
-html[data-bs-theme="dark"] .logo-light { display: none; }
+html[data-bs-theme="dark"] .navbar-brand .logo-dark { display: inline-block !important; }
+html[data-bs-theme="dark"] .navbar-brand .logo-light { display: none !important; }
