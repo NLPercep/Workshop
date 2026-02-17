@@ -33,7 +33,7 @@ All papers must follow the **AAAI two-column, camera-ready style**, for **US Let
 
 ## Important Dates
 
-- **Paper submission deadline:** March 05, 2026  
+- **Paper submission deadline:** March 10, 2026  
 - **Notification of acceptance:** April 15, 2026  
 - **Camera ready:** May 15, 2026  
 - **NLPercep Workshop day:** May 26, 2026  
