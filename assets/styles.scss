@@ -111,13 +111,13 @@ $ui-4: #4d4bcd;
     background-repeat: no-repeat;
 }
 
-$reading-width: 960px;
+$reading-width: 1000px;
 
 @media (min-width: 992px) {
   .container { max-width: $reading-width !important; }
 }
 
-$gif-width: 1200px;
+$gif-width: 1300px;
 
 .wide-gif { width: 100%; max-width: $gif-width; margin: 0 auto 24px; }
 
@@ -126,13 +126,14 @@ article .wide-gif img { width: 100% !important; max-width: none !important; heig
 
 
 /* --- Make committee photos uniform --- */
+
 .card-img-top {
   width: 100%;
-  aspect-ratio: 1 / 1;     /* make all thumbnails square */
-  object-fit: cover;       /* crop to fill the square */
-  object-position: center; /* center the face */
-  height: auto;            /* keep layout stable */
+  height: 200px;          /* try 160–220px */
+  object-fit: cover;
+  object-position: center;
 }
+
 
 /* Fallback if aspect-ratio isn't supported */
 @supports not (aspect-ratio: 1 / 1) {

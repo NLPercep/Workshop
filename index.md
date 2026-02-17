@@ -3,12 +3,14 @@ title: "NLPercep'26 @ ICWSM AAAI"
 layout: page
 #feature_image: assets/charles-martin-ventilation.jpg
 ---
-### The First Workshop on Centering Social Perception in Natural Language Processing
+
+
 
 <div class="wide-gif">
   <img src="{{ '/assets/movie4.gif' | relative_url }}" alt="NLPercep preview">
 </div>
 
+#### The First Workshop on Centering Social Perception in Natural Language Processing
 
 
 Social perception plays a central role in how language is interpreted: readers form impressions about intent, politeness, credibility, identity, and more from subtle linguistic cues. However, most NLP systems model such phenomena using surface-level proxies, often failing to capture how humans actually perceive language across contexts.
