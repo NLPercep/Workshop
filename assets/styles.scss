@@ -125,9 +125,15 @@ article .wide-gif img { width: 100% !important; max-width: none !important; heig
 
 .card-img-top { width: 100%; height: 200px; /* try 160–200px */ object-fit: cover; object-position: center; }
 
+/* committee photo */
 
 .committee-grid.container { max-width: 750px !important; }
 .committee-grid .card-body { font-size: 0.8rem; }
+.committee-grid .card-title {
+  font-size: 0.95rem;   /* try 0.9–1.0 */
+  line-height: 1.15;
+}
+
 
 
 /* Logo swap (Bootstrap theme switch) */

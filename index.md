@@ -6,7 +6,7 @@ layout: page
 
 
 <div class="wide-gif">
-  <img src="{{ '/assets/movie4.gif' | relative_url }}" alt="NLPercep preview">
+  <img src="{{ '/assets/movie5.gif' | relative_url }}" alt="NLPercep preview">
 </div>
 
 
