@@ -125,19 +125,22 @@ article .wide-gif img { width: 100% !important; max-width: none !important; heig
 
 
 
-/* --- Make committee photos uniform --- */
 
-.card-img-top {
-  width: 100%;
-  height: 200px;          /* try 160–220px */
-  object-fit: cover;
-  object-position: center;
+/* --- Committee page: make the whole cards/grid smaller --- */
+/* This assumes the committee cards are in Bootstrap columns like col-md-4 (3 across). */
+body.page-committee .col-md-4 {
+  flex: 0 0 25%;
+  max-width: 25%; /* 4 across on md+ screens */
+}
+
+body.page-committee .card {
+  font-size: 0.95rem; /* optional: slightly smaller text */
 }
 
 
-/* Fallback if aspect-ratio isn't supported */
-@supports not (aspect-ratio: 1 / 1) {
-  .card-img-top {
-    height: 240px;         /* pick a fixed size you like */
-  }
+.card-img-top {
+  width: 100%;
+  height: 180px;        /* try 160–200px */
+  object-fit: cover;
+  object-position: center;
 }
