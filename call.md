@@ -25,9 +25,26 @@ We invite the following types of submissions:
 
 ---
 
-## Format
+## Submission Guidelines
 
 All papers must follow the **AAAI two-column, camera-ready style**, for **US Letter (8.5" x 11")** paper (available templates: [*AAAI 2025 Author Kit on Overleaf*](http://overleaf.com/latex/templates/aaai-authorkit25-anonymoussubmission/qxnjxxbvrjqr) or [*AAAI 2025 Author Kit.zip* [Word and LaTeX])](https://aaai.org/authorkit25/). The review process will be **double-blind**. Please anonymize your papers by removing identifying information such as author names, affiliations, and funding details.
+
+Page limit applies to the main content of the papers. Section including limitation, ethical considerations, acknowledgements, references and appendices do not count toward this limit.
+
+All submissions have to be made through the following [Openreview link](https://openreview.net/group?id=ICWSM.org/2026/Workshop/NLPercep)
+
+[IMPORTANT] Authors should be aware of OpenReview’s moderation policy for newly created profiles:
+- New profiles created without an institutional email will go through a moderation process that can take up to two weeks.
+- New profiles created with an institutional email will be activated automatically.
+
+### Camera Ready Version
+
+Final versions of accepted papers will be given one additional page of content to address reviewers’ comments.
+
+### Workshop Proceedings
+
+The workshop proceedings will be published at https://workshop-proceedings.icwsm.org/. Each paper will receive a unique DOI.
+
 
 ---
 
