@@ -19,8 +19,11 @@ We invite interdisciplinary contributions that advance theoretical grounding, co
 
 We invite the following types of submissions:
 
+Archival:
 - **Long papers (5 to 8 pages)** that present original research, from preliminary findings to established contributions, including theory, experiments, or applications.  
 - **Short papers (up to 4 pages)** that introduce emerging ideas, work in progress, or early-stage research with clear significance.  
+
+Non-Archival:
 - **Extended abstracts (up to 2 pages)** that present ongoing work, position papers, previously published work, or research projects. Abstracts can be submitted either for inclusion in the proceedings (archival) or as non-archival contributions.
 
 ---
@@ -33,7 +36,7 @@ Page limit applies to the main content of the papers. Section including limitati
 
 All submissions have to be made through the following [Openreview link](https://openreview.net/group?id=ICWSM.org/2026/Workshop/NLPercep)
 
-[IMPORTANT] Authors should be aware of OpenReview’s moderation policy for newly created profiles:
+**[IMPORTANT]** Authors should be aware of OpenReview’s moderation policy for newly created profiles:
 - New profiles created without an institutional email will go through a moderation process that can take up to two weeks.
 - New profiles created with an institutional email will be activated automatically.
 
@@ -58,4 +61,4 @@ The workshop proceedings will be published at https://workshop-proceedings.icwsm
 **Note:** All deadlines are **11:59 pm UTC -12h (anywhere on earth)**.
 
 
-## [OpenReview Submission](https://openreview.net/group?id=ICWSM.org/2026/Workshop/NLPercep)
+
